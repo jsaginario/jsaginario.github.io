@@ -121,8 +121,14 @@ header .intro-text .download {
 
 .intro-text a, .intro-text i {
     color: white;
-    font-size: 1.5em;
-    padding: 10px;
+    font-size: 1.25em;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.intro-text i {
+    text-decoration: none;
+    
 }
 
 /*MEDIA QUERIES*/
