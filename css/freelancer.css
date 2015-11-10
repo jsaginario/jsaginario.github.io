@@ -108,6 +108,14 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+header .intro-text .download {
+    font-size: 1.25em;
+    font-weight: 300;
+    background-image: url(images/newsletter_headline2.gif);
+      background-repeat: no-repeat;
+      background-position: left top;
+}
+
 .btn-success {
     float: right;
     }
