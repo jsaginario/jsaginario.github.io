@@ -113,10 +113,20 @@ header .intro-text .download {
     font-weight: 300;
 }
 
+/*CUSTOM STYLES*/
+
 .btn-success {
     float: right;
     }
 }
+
+.download-icon {
+     width: 20px;   
+}
+
+
+/*MEDIA QUERIES*/
+
 
 @media(min-width:768px) {
     header .container {
