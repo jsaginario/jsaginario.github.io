@@ -120,7 +120,7 @@ header .intro-text .download {
     }
 
 @font-face {
-	font-family: 'icomoon', "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: 'icomoon';
 	src:url('../fonts/icomoon.eot?phmv9n');
 	src:url('../fonts/icomoon.eot?phmv9n#iefix') format('embedded-opentype'),
 		url('../fonts/icomoon.ttf?phmv9n') format('truetype'),
