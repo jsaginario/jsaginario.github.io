@@ -120,7 +120,7 @@ header .intro-text .download {
     }
 
 .btn-lg, .btn-group-lg > .btn {
-    padding: 0;
+    padding: 10px;
 }
 
 /*.intro-text a, .intro-text i {
