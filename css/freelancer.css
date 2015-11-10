@@ -121,11 +121,11 @@ header .intro-text .download {
 
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?phmv9n');
-	src:url('fonts/icomoon.eot?phmv9n#iefix') format('embedded-opentype'),
-		url('fonts/icomoon.ttf?phmv9n') format('truetype'),
-		url('fonts/icomoon.woff?phmv9n') format('woff'),
-		url('fonts/icomoon.svg?phmv9n#icomoon') format('svg');
+	src:url('../fonts/icomoon.eot?phmv9n');
+	src:url('../fonts/icomoon.eot?phmv9n#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?phmv9n') format('truetype'),
+		url('../fonts/icomoon.woff?phmv9n') format('woff'),
+		url('../fonts/icomoon.svg?phmv9n#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -146,6 +146,10 @@ header .intro-text .download {
 
 .icon-download:before {
 	content: "\e900";
+    color: white;
+}
+
+.intro-text a {
     color: white;
     font-size: 1.5em;
 }
