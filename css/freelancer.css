@@ -119,10 +119,9 @@ header .intro-text .download {
     float: right;
     }
 
-.download-icon {
-     width: 30px;   
+.icon-download:before {
+    content: "\e900";
 }
-
 
 /*MEDIA QUERIES*/
 
